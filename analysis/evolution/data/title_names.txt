@@ -1,0 +1,50 @@
+usc01.xml	Title 1 - General Provisions
+usc02.xml	Title 2 - The Congress
+usc03.xml	Title 3 - The President
+usc04.xml	Title 4 - Flag and Seal, Seat of Government, and the States
+usc05.xml	Title 5 - Government Organization and Employees
+usc06.xml	Title 6 - Domestic Security
+usc07.xml	Title 7 - Agriculture
+usc08.xml	Title 8 - Aliens and Nationality
+usc09.xml	Title 9 - Arbitration
+usc10.xml	Title 10 - Armed Forces
+usc11.xml	Title 11 - Bankruptcy
+usc12.xml	Title 12 - Banks and Banking
+usc13.xml	Title 13 - Census
+usc14.xml	Title 14 - Coast Guard
+usc15.xml	Title 15 - Commerce and Trade
+usc16.xml	Title 16 - Conservation
+usc17.xml	Title 17 - Copyrights
+usc18.xml	Title 18 - Crimes and Criminal Procedure
+usc19.xml	Title 19 - Customs Duties
+usc20.xml	Title 20 - Education
+usc21.xml	Title 21 - Food and Drugs
+usc22.xml	Title 22 - Foreign Relations and Intercourse
+usc23.xml	Title 23 - Highways
+usc24.xml	Title 24 - Hospitals and Asylums
+usc25.xml	Title 25 - Indians
+usc26.xml	Title 26 - Internal Revenue Code
+usc27.xml	Title 27 - Intoxicating Liquors
+usc28.xml	Title 28 - Judiciary and Judicial Procedure
+usc29.xml	Title 29 - Labor
+usc30.xml	Title 30 - Mineral Lands and Mining
+usc31.xml	Title 31 - Money and Finance
+usc32.xml	Title 32 - National Guard
+usc33.xml	Title 33 - Navigation and Navigable Waters
+usc35.xml	Title 35 - Patents
+usc36.xml	Title 36 - Patriotic and National Observances, Ceremonies, and Organizations
+usc37.xml	Title 37 - Pay and Allowances of the Uniformed Services
+usc38.xml	Title 38 - Veterans' Benefits
+usc39.xml	Title 39 - Postal Service
+usc40.xml	Title 40 - Public Buildings, Property, and Works
+usc41.xml	Title 41 - Public Contracts
+usc42.xml	Title 42 - The Public Health and Welfare
+usc43.xml	Title 43 - Public Lands
+usc44.xml	Title 44 - Public Printing and Documents
+usc45.xml	Title 45 - Railroads
+usc46.xml	Title 46 - Shipping
+usc47.xml	Title 47 - Telecommunications
+usc48.xml	Title 48 - Territories and Insular Possessions
+usc49.xml	Title 49 - Transportation
+usc50.xml	Title 50 - War and National Defense
+usc51.xml	Title 51 - National and Commercial Space Programs
